@@ -1,0 +1,27 @@
+{
+  "name": "myfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio and blog.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankk4/Portfolio.git"
+  },
+  "author": "antero juutinen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankk4/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Ankk4/Portfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "morgan": "^1.7.0"
+  }
+}
